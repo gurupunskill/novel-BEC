@@ -1,8 +1,4 @@
-# Data Communications (CO250): Mini-Project
-
-### Title
-
-A Novel Approach to Improving Burst Errors Correction Capability of Hamming Code  
+# A Novel Approach to Improving Burst Errors Correction Capability of Hamming Code  
 
 ### Members  
 1. Gurupungav Narayanan - 16CO114  
