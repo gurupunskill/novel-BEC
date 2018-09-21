@@ -16,7 +16,7 @@ Error detection and correction is critical to accurate data transmission, storag
 * To implement the above two transmissions over a large dataset for the purpose of plotting graphs and visualising the difference in performance of the two schemes.  
 * To simulate a data transmission scenario so as to compare and contrast between both the schemes.  
 
-### Refernces
+### References
 
 J. Zhao and Y. Shi, "A Novel Approach to Improving Burst Errors Correction Capability of Hamming Code," 2007 International Conference on Communications, Circuits and Systems, Kokura, 2007.  
 
